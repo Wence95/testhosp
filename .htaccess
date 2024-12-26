@@ -1,0 +1,3 @@
+<Directory "/var/www/flarum/public">
+    AllowOverride All
+</Directory>
